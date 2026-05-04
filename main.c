@@ -10,6 +10,7 @@ int main() {
     printf("Imprimindo linha 07.\n");
     printf("Imprimindo linha 08.\n");
     printf("Imprimindo linha 09.\n");
-    printf("Imprimindo linha 10.\n");
+    printf("Imprimindo linha 10. Segunda atualização\n");
+    printf("Imprimindo linha 11.")
     return 0;
 }
